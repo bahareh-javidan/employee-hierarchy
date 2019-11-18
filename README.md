@@ -1,2 +1,2 @@
-# employee-hierarchy
-This is a sample project to show employee's hierarchy based on composite  pattern
+# Employee Hierarchy 
+This is a sample project to show employee's hierarchy based on composite pattern.
